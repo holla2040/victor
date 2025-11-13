@@ -42,7 +42,7 @@ graph LR
 
 ### Detailed Line Art Example
 ![Detailed line art showing clean, uniform line weight and smooth contours](detailed.png)
-*Example of high-quality line art with consistent line weight and smooth continuous lines*
+*Example of high-quality line art with consistent line weight and smooth continuous lines with gaps to prevent islands*
 
 ## chatGPT AI Prompts for Line Art Generation
 
