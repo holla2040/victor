@@ -1,6 +1,6 @@
 # victor
 
-Victor converts photographs into precise vectorized line drawings optimized for laser cutting. Using AI-generated line art and potrace-based vectorization, it produces SVG files with strategically placed gaps that reduce heat buildup and improve cut quality on laser cutters.
+Victor converts photographs into precise vectorized line drawings optimized for laser cutting. Using AI-generated line art and potrace-based vectorization, it produces SVG files with strategically placed gaps that reduce heat buildup, improve cut quality on laser cutters, and prevent islands from falling out of the stock material.
 
 ## Workflow
 
