@@ -5,7 +5,6 @@ Victor converts photographs into precise vectorized line drawings optimized for 
 ## Workflow
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'fontSize':'16px'}}}%%
 graph LR
     A[Original Photo<br/>image.png] --> B[ChatGPT<br/>Line Art Generation]
     B --> C[Line Art PNG<br/>image-with.png or<br/>image-without.png]
