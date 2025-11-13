@@ -26,7 +26,7 @@ Victor converts photographs into precise vectorized line drawings optimized for 
 
 ## AI Prompts for Line Art Generation
 
-✅ PROMPT A — WITH BACKGROUND<hr>
+✅ chatGPT PROMPT A — WITH BACKGROUND<hr>
 Create a precise black-and-white line drawing of the subjects in the attached photo.
 
 Use a single uniform line width for the entire drawing.
@@ -47,7 +47,7 @@ Output resolution must be between 4096 and 7680 pixels for sharp, high-resolutio
 The final result should be a clean, consistent technical line drawing suitable for vectorization.
 
 
-✅ PROMPT B — WITHOUT BACKGROUND<hr>
+✅ chatGPT PROMPT B — WITHOUT BACKGROUND<hr>
 Create a precise black-and-white line drawing of the subjects in the attached photo.
 
 Use a single uniform line width for all lines in the drawing.
