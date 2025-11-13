@@ -2,6 +2,22 @@
 
 Victor converts photographs into precise vectorized line drawings optimized for laser cutting. Using AI-generated line art and potrace-based vectorization, it produces SVG files with strategically placed gaps that reduce heat buildup and improve cut quality on laser cutters.
 
+## Workflow
+
+```mermaid
+graph LR
+    A[Original Photo<br/>image.png] --> B[ChatGPT<br/>Line Art Generation]
+    B --> C[Line Art PNG<br/>image-with.png or<br/>image-without.png]
+    C --> D[vectorize_fast.py<br/>Gap Insertion]
+    D --> E[Laser-Ready SVG<br/>image.svg]
+
+    style A fill:#e1f5ff
+    style B fill:#fff4e1
+    style C fill:#e1f5ff
+    style D fill:#ffe1f5
+    style E fill:#e1ffe1
+```
+
 ## Examples
 
 ### Original Image
