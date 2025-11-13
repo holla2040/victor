@@ -40,6 +40,10 @@ graph LR
 
 *Vectorized SVG with gaps inserted for laser cutting optimization*
 
+### Detailed Line Art Example
+![Detailed line art showing clean, uniform line weight and smooth contours](detailed.png)
+*Example of high-quality line art with consistent line weight and smooth continuous lines*
+
 ## chatGPT AI Prompts for Line Art Generation
 
 ✅ chatGPT PROMPT A — WITH BACKGROUND<hr>
