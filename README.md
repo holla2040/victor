@@ -12,14 +12,16 @@ Victor converts photographs into precise vectorized line drawings optimized for 
 ![AI-generated line drawing including simplified background](image-with.png)
 *AI-generated line drawing with simplified background elements (walls, furniture, equipment)*
 
-![Final vectorized SVG with gaps for laser cutting](image-with.svg)
+<img src="image-with.svg" alt="Final vectorized SVG with gaps for laser cutting" width="100%">
+
 *Vectorized SVG with gaps inserted for laser cutting optimization*
 
 ### Without Background Elements
 ![AI-generated line drawing with subjects only](image-without.png)
 *AI-generated line drawing with subjects only, no background*
 
-![Final vectorized SVG with gaps for laser cutting](image-without.svg)
+<img src="image-without.svg" alt="Final vectorized SVG with gaps for laser cutting" width="100%">
+
 *Vectorized SVG with gaps inserted for laser cutting optimization*
 
 ## AI Prompts for Line Art Generation
