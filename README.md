@@ -1,18 +1,26 @@
 # victor
-Victor is my project to vectorize images for laser cutting
+
+Victor converts photographs into precise vectorized line drawings optimized for laser cutting. Using AI-generated line art and potrace-based vectorization, it produces SVG files with strategically placed gaps that reduce heat buildup and improve cut quality on laser cutters.
 
 ## Examples
 
 ### Original Image
-![Original Image](image.png)
+![Original photograph showing subjects](image.png)
+*Original photograph to be processed*
 
-### With Background
-![Line Drawing with Background](image-with.png)
-![Vectorized with Background](image-with.svg)
+### With Background Elements
+![AI-generated line drawing including simplified background](image-with.png)
+*AI-generated line drawing with simplified background elements (walls, furniture, equipment)*
 
-### Without Background
-![Line Drawing without Background](image-without.png)
-![Vectorized without Background](image-without.svg)
+![Final vectorized SVG with gaps for laser cutting](image-with.svg)
+*Vectorized SVG with gaps inserted for laser cutting optimization*
+
+### Without Background Elements
+![AI-generated line drawing with subjects only](image-without.png)
+*AI-generated line drawing with subjects only, no background*
+
+![Final vectorized SVG with gaps for laser cutting](image-without.svg)
+*Vectorized SVG with gaps inserted for laser cutting optimization*
 
 ## AI Prompts for Line Art Generation
 
