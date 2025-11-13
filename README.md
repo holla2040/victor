@@ -11,11 +11,11 @@ graph LR
     C --> D[vectorize_fast.py<br/>Gap Insertion]
     D --> E[Laser-Ready SVG<br/>image.svg]
 
-    style A fill:#e1f5ff
-    style B fill:#fff4e1
-    style C fill:#e1f5ff
-    style D fill:#ffe1f5
-    style E fill:#e1ffe1
+    style A fill:#e1f5ff,color:#000
+    style B fill:#fff4e1,color:#000
+    style C fill:#e1f5ff,color:#000
+    style D fill:#ffe1f5,color:#000
+    style E fill:#e1ffe1,color:#000
 ```
 
 ## Examples
